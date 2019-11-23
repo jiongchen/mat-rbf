@@ -1,13 +1,14 @@
 # mat-rbf
 
 This is an unoptimized toy implementation of our SIGGRAPH ASIA 2019
-paper --- *Material-adapted Refinable Basis Functions for Elasticity
-Simulation*. After compilation, one could run the program by
+paper, **Material-adapted Refinable Basis Functions for Elasticity
+Simulation**, for 2D elasticity with regular grid
+discretization only. After compilation, one could run the program by
 ```
 ./build/main config.json
 ```
-The results are written to `vtk` formatted files, which can be
-visualized by `paraview`.
+The results will be written to `vtk`
+formatted files, which can be visualized by `paraview`.
 
 To cite our paper, you could use the following BibTex entry.
 ```
