@@ -6,7 +6,7 @@ Simulation*. After compilation, one could run the program by
 ```
 ./build/main config.json
 ```
-The results are written to `vtk` formatted file, which can be
+The results are written to `vtk` formatted files, which can be
 visualized by `paraview`.
 
 To cite our paper, you could use the following BibTex entry.
