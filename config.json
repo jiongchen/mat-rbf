@@ -3,7 +3,7 @@
   "resolution": 2,
   "refinement": "D",
   "min_young": 5e2,
-  "max_young": 1e4,
+  "max_young": 1e6,
   "material": "dat/tiling-0.png",
   "density": 1e2
 }
